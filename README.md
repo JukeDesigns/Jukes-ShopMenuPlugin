@@ -1,5 +1,5 @@
-# `#931621` ***This Plugin is UNFINISHED***
-# `#931621` ***Final version will be called v1.0***
+# ***This Plugin is UNFINISHED***
+# ***Final version will be called v1.0***
 
 ### Current Version: v0.0.2
 
