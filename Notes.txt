@@ -1,0 +1,8 @@
+// CREDIT SYSTEM
+//
+// TESTING:
+// 1 Credit per Second to all players online
+// Store in database linked to players Steam ID
+// !credits command to display credit balance
+// 
+// Use a config to store commands

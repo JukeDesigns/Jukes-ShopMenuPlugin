@@ -1,0 +1,12 @@
+D:\Coding\ShopMenu-0.0.1\bin\Debug\net8.0\ShopMenuPlugin.deps.json
+D:\Coding\ShopMenu-0.0.1\bin\Debug\net8.0\ShopMenuPlugin.dll
+D:\Coding\ShopMenu-0.0.1\bin\Debug\net8.0\ShopMenuPlugin.pdb
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.csproj.AssemblyReference.cache
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.AssemblyInfoInputs.cache
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.AssemblyInfo.cs
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.csproj.CoreCompileInputs.cache
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.dll
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\refint\ShopMenuPlugin.dll
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.pdb
+D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ref\ShopMenuPlugin.dll
