@@ -1,3 +1,11 @@
+# `#931621` ***This Plugin is UNFINISHED***
+# `#931621` ***Final version will be called v1.0***
+
+### Current Version: v0.0.2
+
+
+
+
 __   __  __   __  __   ______   ______           
 /\ \ /\ \/\ \ /\ \/ /  /\  ___\ /\  ___\          
 _\_\ \\ \ \_\ \\ \  _"-.\ \  __\ \ \___  \         
