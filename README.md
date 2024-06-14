@@ -1,9 +1,8 @@
 # **Juke's Shop Menu Plugin**
 
-## ***This Plugin is UNFINISHED***
-## ***Final version will be called v1.0***
+***This Plugin is UNFINISHED Final version will be called v1.0***
 
-### Current Version: v0.0.2
+*Current Version: v0.0.2*
 
 
 __________________________________________________________________________________________
