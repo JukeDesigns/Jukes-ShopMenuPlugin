@@ -2,6 +2,7 @@
 using CounterStrikeSharp.API.Core.Attributes.Registration;
 using CounterStrikeSharp.API.Modules.Commands;
 using CounterStrikeSharp.API.Modules.Menu;
+using CounterStrikeSharp.API.Modules.Utils;
 using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API;
 
@@ -31,7 +32,7 @@ public partial class ShopChatMenu : BasePlugin, IPlugin
         }
 
         Console.WriteLine("Shop Menu Has been called...");
-        var shopMenu = new ChatMenu(" {ChatColors.gold}Shop");
+        var shopMenu = new ChatMenu($" {ChatColors.Gold}Shop");
         MenuHelper.ShopMenu(shopMenu);
         MenuManager.OpenChatMenu(player!, shopMenu);
     }
@@ -42,7 +43,7 @@ public static class MenuHelper
     internal static void ShopMenu(ChatMenu shopMenu)
     {
         shopMenu.AddMenuOption("Option 1", (p, o) => 
-        Server.PrintToChatAll(" {ChatColors.gold}Shop Menu Option Has Been Chosen"), false);
+        Server.PrintToChatAll($" {ChatColors.Gold}Shop Menu Option Has Been Chosen"), false);
     }
 }
 
