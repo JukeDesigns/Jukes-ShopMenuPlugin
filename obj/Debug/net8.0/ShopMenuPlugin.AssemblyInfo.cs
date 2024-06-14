@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMenuPlugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ee5ecabbec3d89f6189837476e92d6e4527a18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMenuPlugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMenuPlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
