@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8xXvy/5qwNLelZjgI9tqIC0VysCq4G+scKJVKEcERPD3ziG1Cwe+nCryNdbo5iMmdfZwhjZEbTKN3ksI7rbSg==",
+  "dgSpecHash": "llANiIIFc07CgK6XpKWZFMOCExWgy9uuZprMMg2bdlhAgG2zOQuFsQAr8kWCjR19Trfn8tGZ4YDBV+FrPEQlog==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\ShopMenu-0.0.1\\ShopMenuPlugin.csproj",
+  "projectFilePath": "D:\\Coding\\Jukes-ShopMenuPlugin\\ShopMenuPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\codud\\.nuget\\packages\\counterstrikesharp.api\\1.0.239\\counterstrikesharp.api.1.0.239.nupkg.sha512",
     "C:\\Users\\codud\\.nuget\\packages\\mcmaster.netcore.plugins\\1.4.0\\mcmaster.netcore.plugins.1.4.0.nupkg.sha512",

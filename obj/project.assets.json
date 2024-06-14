@@ -2750,11 +2750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\ShopMenu-0.0.1\\ShopMenuPlugin.csproj",
+      "projectUniqueName": "D:\\Coding\\Jukes-ShopMenuPlugin\\ShopMenuPlugin.csproj",
       "projectName": "ShopMenuPlugin",
-      "projectPath": "D:\\Coding\\ShopMenu-0.0.1\\ShopMenuPlugin.csproj",
+      "projectPath": "D:\\Coding\\Jukes-ShopMenuPlugin\\ShopMenuPlugin.csproj",
       "packagesPath": "C:\\Users\\codud\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\ShopMenu-0.0.1\\obj\\",
+      "outputPath": "D:\\Coding\\Jukes-ShopMenuPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\codud\\AppData\\Roaming\\NuGet\\NuGet.Config"

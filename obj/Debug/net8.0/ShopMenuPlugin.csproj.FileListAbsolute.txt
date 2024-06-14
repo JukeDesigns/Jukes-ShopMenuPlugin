@@ -10,3 +10,16 @@ D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.dll
 D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\refint\ShopMenuPlugin.dll
 D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ShopMenuPlugin.pdb
 D:\Coding\ShopMenu-0.0.1\obj\Debug\net8.0\ref\ShopMenuPlugin.dll
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.csproj.AssemblyReference.cache
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.AssemblyInfoInputs.cache
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.AssemblyInfo.cs
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.csproj.CoreCompileInputs.cache
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.sourcelink.json
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.dll
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\refint\ShopMenuPlugin.dll
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ShopMenuPlugin.pdb
+D:\Coding\Jukes-ShopMenuPlugin\bin\Debug\net8.0\ShopMenuPlugin.deps.json
+D:\Coding\Jukes-ShopMenuPlugin\bin\Debug\net8.0\ShopMenuPlugin.dll
+D:\Coding\Jukes-ShopMenuPlugin\bin\Debug\net8.0\ShopMenuPlugin.pdb
+D:\Coding\Jukes-ShopMenuPlugin\obj\Debug\net8.0\ref\ShopMenuPlugin.dll
