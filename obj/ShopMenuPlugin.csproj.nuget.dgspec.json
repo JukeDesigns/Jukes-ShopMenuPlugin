@@ -47,6 +47,14 @@
               "target": "Package",
               "version": "[1.0.239, )"
             },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.24, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
             "Microsoft.SourceLink.GitHub": {
               "suppressParent": "All",
               "target": "Package",

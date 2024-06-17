@@ -6,9 +6,6 @@ using CounterStrikeSharp.API.Modules.Utils;
 using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API;
 
-// Reference to Figgle for ASCII Art Written in Console on load
-using Figgle;
-
 namespace ShopMenuPlugin;
 public partial class ShopChatMenu : BasePlugin, IPlugin
 {
@@ -19,8 +16,7 @@ public partial class ShopChatMenu : BasePlugin, IPlugin
 
     public override void Load(bool hotReload)
     {
-        Console.WriteLine("SHOP MENU PLUGIN HAS LOADED");
-        Console.WriteLine(FiggleFonts.SubZero.Render("Jukes Shop Plugin"));
+        Console.WriteLine("SHOP MENU PLUGIN HAS LOADED");;
     }
 
     [ConsoleCommand("shop")]
