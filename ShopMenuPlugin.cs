@@ -5,6 +5,7 @@ using CounterStrikeSharp.API.Modules.Menu;
 using CounterStrikeSharp.API.Modules.Utils;
 using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ShopMenuPlugin;
 public partial class ShopChatMenu : BasePlugin, IPlugin
@@ -32,14 +33,25 @@ public partial class ShopChatMenu : BasePlugin, IPlugin
         MenuHelper.ShopMenu(shopMenu);
         MenuManager.OpenChatMenu(player!, shopMenu);
     }
-}
 
-public static class MenuHelper
-{
-    internal static void ShopMenu(ChatMenu shopMenu)
+    [ConsoleCommand("addcredits", "Add Credits to your player")]
+    public void AddCredits(CCSPlayerController? player, CommandInfo commandInfo)
     {
-        shopMenu.AddMenuOption("Option 1", (p, o) => 
-        Server.PrintToChatAll($" {ChatColors.Gold}Shop Menu Option Has Been Chosen"), false);
+        if (player == null) 
+        {
+            return;
+        }
+        commandInfo.ReplyToCommand("Credits Added");
+        
+    }
+
+    public static class MenuHelper
+    {
+        internal static void ShopMenu(ChatMenu shopMenu)
+        {
+            shopMenu.AddMenuOption("Option 1", (p, o) => 
+            Server.PrintToChatAll($" {ChatColors.Gold}Shop Menu Option Has Been Chosen"), false);
+        }
     }
 }
 
